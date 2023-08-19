@@ -1,0 +1,13 @@
+app:
+  name: ""
+
+server:
+  host: ""
+  port: ""
+
+db:
+  username: ""
+  password: ""
+  host: ""
+  port: ""
+  name: ""
